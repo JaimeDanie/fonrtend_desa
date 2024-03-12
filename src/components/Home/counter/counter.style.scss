@@ -1,0 +1,26 @@
+.section-metric-medical-container{
+    padding: 5rem;
+    background-color: var(--color-background);
+}
+.section-metric-medical-card{    
+    text-align: center;    
+    color: var(--color-primary-1);
+}
+h2.section-metric-number{
+    font-size: 5rem;
+    margin: auto;
+}
+span.section-metric-text{
+    font-size: 1.1rem;
+}
+
+@media screen and (max-width: 480px) {
+    .section-metric-medical-container{
+        padding: 3.25rem 2.25rem;
+        background-color: var(--color-background);
+    }
+    h2.section-metric-number{
+        font-size: 3.725rem;
+        margin: auto;
+    }
+}

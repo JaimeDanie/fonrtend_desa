@@ -1,0 +1,26 @@
+.section-about-container{
+    padding: 5rem;    
+}
+p.section-medical-about-description{
+    font-size: 1.875rem;
+    color: var(--color-dark-2);
+    font-weight: 300;
+}
+.section-about-container-right img{
+    display: block;
+    margin: auto;
+}
+
+@media screen and (max-width: 480px) {
+    .section-about-container{
+        padding: 3.25rem 2.25rem;    
+    }
+    .section-about-container{
+        padding: 2.25rem;
+    }
+    p.section-medical-about-description{
+        font-size: 1.275rem;
+        color: var(--color-dark-2);
+        font-weight: 300;
+    }
+}

@@ -1,0 +1,59 @@
+.section-banner-plan-selected{
+    padding: 3rem 1rem;
+
+    .section-card-plan-selected{
+        text-align: center;
+        border-radius: 2rem;    
+        padding: 2.25rem;
+        background-color: var(--color-background);
+        box-shadow: 1px 1px 5px 0 rgba(0,0,0,.25098);
+
+        h2.plan-selected-description-header{
+            font-size: 1.875rem;
+            color: var(--color-primary-1);
+            margin: .5rem auto auto auto;
+        }
+
+        h3.plan-selected-description-price-year{
+            font-size: 3rem;
+            color: var(--color-primary-2);
+            margin: .5rem auto auto auto;
+        }
+
+        h4.plan-selected-description-price-month{
+            font-size: 1.275rem;
+            font-weight: 300;
+            text-transform: uppercase;
+            color: var(--color-primary-2);
+            margin: .3rem auto .5rem auto;
+        }
+
+        .plan-selected-description-list ul li{
+            text-align: left;
+            list-style-image: url('../../../assets/img/check_utim.svg');
+            color: var(--color-dark-2);
+            font-size: 1.1rem;
+        }
+    }
+}
+
+
+@media screen and (max-width: 480px){
+    .section-banner-plan-selected{
+        padding: 3.25rem  2.25rem;
+
+        .section-card-plan-selected{
+            
+
+            h2.plan-selected-description-header{
+                font-size: 1.275rem;
+            }
+            h3.plan-selected-description-price-year{
+                font-size: 2.875rem;
+            }
+            h4.plan-selected-description-price-month{
+                font-size: 1.2rem;
+            }
+        }
+    }        
+}

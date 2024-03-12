@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="45mm"
+   height="28mm"
+   viewBox="0 0 45 28"
+   version="1.1"
+   id="svg19"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="209mm"
+     inkscape:zoom="0.7500982"
+     inkscape:cx="-1.9997382"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1312"
+     inkscape:window-height="1022"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs16" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="fill:none"
+       id="g32"
+       transform="matrix(0.26458333,0,0,0.26458333,22.483012,2.8259007)">
+      <path
+         d="M 56.9,0.47998 H 18.4399 c -10.06996,0 -18.269978,8.2 -18.269978,18.27002 v 23.08 c 0,10.07 8.200018,18.27 18.269978,18.27 h 16.35 v 9.62 h -12.5 c -1.59,0 -2.8799,1.29 -2.8799,2.88 0,1.59 1.2899,2.88 2.8799,2.88 h 30.77 c 1.59,0 2.88,-1.29 2.88,-2.88 0,-1.59 -1.29,-2.88 -2.88,-2.88 h -12.5 V 60.1 H 56.91 c 10.07,0 18.2699,-8.2 18.2699,-18.27 V 18.75 C 75.1699,8.67998 66.97,0.47998 56.9,0.47998 Z M 69.4,41.83 c 0,6.89 -5.61,12.5 -12.5,12.5 H 18.4399 c -6.89,0 -12.49996,-5.61 -12.49996,-12.5 V 18.75 c 0,-6.89 5.60996,-12.50002 12.49996,-12.50002 H 56.9 c 6.89,0 12.5,5.61002 12.5,12.50002 z"
+         fill="#123461"
+         id="path23" />
+    </g>
+    <g
+       style="fill:none"
+       id="g43"
+       transform="matrix(0.26458333,0,0,0.26458333,5.0268817,2.650788)">
+      <path
+         d="M 34.37,0.47998 H 15.62 C 6.99,0.48998 0.01,7.47998 0,16.1 v 43.75 c 0.01,8.63 7,15.61 15.62,15.62 H 34.37 C 43,75.46 49.98,68.47 49.99,59.85 V 16.11 C 49.98,7.47998 42.99,0.48998 34.37,0.47998 Z m -18.75,6.25 h 18.75 c 5.18,0 9.38,4.20002 9.38,9.38002 V 50.49 H 6.25 V 16.11 C 6.24,10.93 10.44,6.72998 15.62,6.72998 Z M 34.37,69.23 H 15.62 c -5.18,0 -9.38001,-4.2 -9.38001,-9.38 V 56.73 H 43.74 v 3.12 c 0,5.19 -4.19,9.38 -9.37,9.38 z"
+         fill="#123461"
+         id="path34" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+export const API_URL = import.meta.env.VITE_REACT_APP_API_URL;
+export const PATH_PLANS = import.meta.env.VITE_REACT_APP_PATH_PLANS;
+export const PATH_COUNTER = import.meta.env.VITE_REACT_APP_PATH_COUNTER;
+export const PATH_SERVICES = import.meta.env.VITE_REACT_APP_PATH_SERVICES;
+export const PATH_MEDICAL_REQUEST = import.meta.env.VITE_REACT_APP_PATH_MEDICAL_REQUEST;
+export const PATH_GET_AGENTS = import.meta.env.VITE_REACT_APP_PATH_GET_AGENTS;
+export const API_PAYVALIDA = import.meta.env.VITE_REACT_APP_API_PAYVALIDA;
+export const APP_ADMIN = import.meta.env.VITE_REACT_APP_ADMIN;
+export const USER_ADMIN = import.meta.env.VITE_REACT_USER_ADMIN;
+export const PASS_ADMIN = import.meta.env.VITE_REACT_PASS_ADMIN;

@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+:root {
+    --color-background: rgb(247, 247, 255);
+
+    --color-primary-1: #001529;
+    --color-primary-2: #1677ff;
+    --color-primary-3: rgb(242 184 7);
+
+    --color-dark: rgb(0, 0, 0);
+    --color-dark-2: rgb(113,113,113);
+
+    --color-light: #FFFFFF;
+    --color-light-1: #F2F2F2;
+    --color-light-2: #F3F3F3;
+
+    --font-primary: 'Poppins', sans-serif;
+    --font-secondary: 'Marcellus', serif;
+}
